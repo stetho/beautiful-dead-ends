@@ -4,6 +4,7 @@ The goal here is to follow the process of mathematical reasoning as far as it wi
 Each problem gets a series of Jupyter notebooks written as a research journal - first person, thinking out loud, building from first principles toward the frontier of what's known. The notebooks are meant to be read, not just run.
 
 Problems
+
 🔴 Collatz Conjecture
 
 Does every positive integer eventually reach 1 under repeated application of the 3n+1 rule?
